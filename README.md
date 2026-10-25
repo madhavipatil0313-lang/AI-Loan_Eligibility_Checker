@@ -102,4 +102,4 @@ All outputs are educational estimates. They are not bank approvals, loan offers,
 
 Click below to view the complete project documentation.
 
-[View Project Documentation](https://drive.google.com/file/d/15MgZRgRNqdQ3Xnsrw9WQyE88SUCRmF6l/view?usp=sharing)
+[View Project Documentation] (https://drive.google.com/file/d/15MgZRgRNqdQ3Xnsrw9WQyE88SUCRmF6l/view?usp=sharing)
